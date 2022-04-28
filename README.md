@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SimardeepSingh1450
 - 👀 I’m interested in WebDevelopment,app development,etc.
-- 🌱 I’m currently learning Js,etc.
+- 🌱 I’m currently learning Node Js,Express Js ,etc.
 - 📫 How to reach me -> smudhar_be21@thapar.edu [My-email].
 
 <!---
