@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Simardeep Singh Mudhar
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+
 
 1>I am currently studying as CS student at Thapar University , Patiala.
 2>I am a MERN Full-Stack Developer.
