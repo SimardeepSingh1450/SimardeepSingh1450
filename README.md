@@ -2,10 +2,10 @@
 
 
 
-1>I am currently studying as CS student at Thapar University , Patiala.
-2>I am a MERN Full-Stack Developer.
-3>I am open to work for Front End Projects and Back End Projects if you need Help.
-4>How to reach me? My email => smudhar_be21@thapar.edu.
+1>I am currently studying as CS student at Thapar University , Patiala. <br/>
+2>I am a MERN Full-Stack Developer.<br/>
+3>I am open to work for Front End Projects and Back End Projects if you need Help.<br/>
+4>How to reach me? My email => smudhar_be21@thapar.edu.<br/>
 
 Skills: HTML / CSS / JS / REACT / NODE / MONGODB /EXPRESS / C++ / C / PYTHON
 
