@@ -24,8 +24,8 @@ Skills: HTML / CSS / JS / REACT / NODE / MONGODB /EXPRESS / C++ / C / PYTHON
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" style="height:90px"/>
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" style="height:90px"/>
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" style="height:90px"/>
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/express-logo-freelogovectors.net_.png" style="height:90px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" style="height:90px"/>
+<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" style="height:90px"/>
+<img src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" style="height:90px"/>
 <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" style="height:90px"/>
 <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" style="height:90px"/>
 <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" style="height:90px"/>
