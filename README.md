@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Simardeep Singh Mudhar
 1>I am currently studying as CS student at Thapar University , Patiala.<br/>
-2>I am a MERN Full-Stack Developer.<br/>
+2>I am a Web Developer.<br/>
 3>I am open to work for Front End Projects and Back End Projects if you need Help.<br/>
 4>How to reach me? My email => smudhar_be21@thapar.edu.
 
