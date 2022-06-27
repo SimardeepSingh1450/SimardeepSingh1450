@@ -31,7 +31,8 @@ Skills: HTML / CSS / JS / REACT / NODE / MONGODB /EXPRESS / C++ / C / PYTHON
 <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" style="height:50px"/>
 <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" style="height:50px"/>
  <img src="https://www.adminbyaccident.com/wp-content/uploads/2017/11/mysql-export-import.jpg" style="height:50px"/>
-<img src="[https://www.adminbyaccident.com/wp-content/uploads/2017/11/mysql-export-import.jpg](https://static.cdnlogo.com/logos/f/48/firebase.svg)" style="height:50px"/>
+<img src="https://www.gstatic.com/devrel-devsite/prod/v1a2d2d725c48303ffd65eb7122e57032dbf9bb148227658cacdfddf0dcae1e46/firebase/images/touchicon-180.png" style="height:50px"/>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimardeepSingh1450)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true)  
