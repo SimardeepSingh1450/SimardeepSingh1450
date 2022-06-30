@@ -33,9 +33,10 @@ Skills: HTML / CSS / JS / REACT / NODE / MONGODB /EXPRESS / C++ / C / PYTHON
  <img src="https://www.adminbyaccident.com/wp-content/uploads/2017/11/mysql-export-import.jpg" style="height:50px"/>
 <img src="https://www.gstatic.com/devrel-devsite/prod/v1a2d2d725c48303ffd65eb7122e57032dbf9bb148227658cacdfddf0dcae1e46/firebase/images/touchicon-180.png" style="height:50px"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SimardeepSingh1450)](https://git.io/streak-stats)
 
- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimardeepSingh1450)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true)  
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SimardeepSingh1450)](https://git.io/streak-stats)
