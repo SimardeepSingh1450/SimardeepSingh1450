@@ -7,8 +7,7 @@
 Skills: HTML / CSS / JS / REACT / NODE / MONGODB /EXPRESS / C++ / C / PYTHON
 
 - 🔭 I’m currently working on Self web dev projects... 
-- 🌱 I’m currently learning Material UI.... 
-- 👯 I’m looking to collaborate on Front End Projects.. 
+- 👯 I’m looking to collaborate on Front End & Back End Projects.
 - 📫 How to reach me: smudhar_be21@thapar.edu 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Glass balls can bounce higher than Rubber Balls. 
