@@ -38,4 +38,3 @@ Skills: HTML / CSS / JS / REACT / NODE / MONGODB /EXPRESS / C++ / C / PYTHON
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true)  
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SimardeepSingh1450)](https://git.io/streak-stats)
