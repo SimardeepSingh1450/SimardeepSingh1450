@@ -4,14 +4,12 @@
 3>I am open to work for Front End Projects and Back End Projects if you need Help.<br/>
 4>How to reach me? My email => smudhar_be21@thapar.edu.
 
-Skills: HTML / CSS / JS / REACT / NODE / MONGODB /EXPRESS / C++ / C / PYTHON
 
 - 🔭 I’m currently working on Self web dev projects... 
-- 👯 I’m looking to collaborate on Front End & Back End Projects.
+- 👯 I’m looking to collaborate on MERN Projects.
 - 📫 How to reach me: smudhar_be21@thapar.edu 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Glass balls can bounce higher than Rubber Balls. 
-
 
 
 
