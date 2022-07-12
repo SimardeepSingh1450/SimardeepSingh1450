@@ -16,7 +16,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SimardeepSingh1450) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/simardeep_singh22/) 
 
 <div style="display:flex">
-<img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" style="height:50px"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" style="height:50px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" style="height:50px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" style="height:50px"/>
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" style="height:50px"/>
