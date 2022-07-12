@@ -32,6 +32,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" style="height:50px"/>
 <img src="https://v4.mui.com/static/logo.png" style="height:50px"/>
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" style="height:50px"/>
+<img src="https://www.tpisoftware.com/tpu/File/html/202009/20200929151429/images/20200926171128.png" style="height:50px"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimardeepSingh1450)](https://github.com/anuraghazra/github-readme-stats)
 
