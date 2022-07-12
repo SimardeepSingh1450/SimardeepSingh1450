@@ -17,7 +17,7 @@
 
 <div style="display:flex">
 <img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" style="height:50px"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" style="height:50px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" style="height:50px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" style="height:50px"/>
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" style="height:50px"/>
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" style="height:50px"/>
