@@ -33,6 +33,7 @@
 <img src="https://v4.mui.com/static/logo.png" style="height:50px"/>
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" style="height:50px"/>
 <img src="https://www.tpisoftware.com/tpu/File/html/202009/20200929151429/images/20200926171128.png" style="height:50px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="height:50px"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimardeepSingh1450)](https://github.com/anuraghazra/github-readme-stats)
 
