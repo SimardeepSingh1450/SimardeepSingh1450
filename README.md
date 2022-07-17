@@ -21,7 +21,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" style="height:50px"/>
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" style="height:50px"/>
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" style="height:50px"/>
-<img src="https://banner2.cleanpng.com/20180905/pq/kisspng-mongodb-database-clip-art-computer-icons-nosql-5b900df99c65f2.2387663615361674176406.jpg" style="height:50px"/>
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" style="height:50px"/>
 <img src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.54bb6035d3.jpg" style="height:50px"/>
 <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" style="height:50px"/>
 <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" style="height:50px"/>
