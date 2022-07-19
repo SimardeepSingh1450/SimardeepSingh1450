@@ -36,6 +36,8 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" style="height:50px"/>
 <img src="https://stripe.com/img/v3/home/twitter.png" style="height:50px"/>
 
+![](https://komarev.com/ghpvc/?username=SimardeepSingh1450&color=green)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimardeepSingh1450)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true)  
