@@ -35,7 +35,7 @@
 <img src="https://www.tpisoftware.com/tpu/File/html/202009/20200929151429/images/20200926171128.png" style="height:50px"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" style="height:50px"/>
 <img src="https://stripe.com/img/v3/home/twitter.png" style="height:50px"/>
-
+<img src="https://symbols.getvecta.com/stencil_25/40_jest.5fde12ec22.png" style="height:50px"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimardeepSingh1450)](https://github.com/anuraghazra/github-readme-stats)
 
