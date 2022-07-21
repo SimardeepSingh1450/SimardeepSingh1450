@@ -36,6 +36,7 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" style="height:40px"/>
 <img src="https://stripe.com/img/v3/home/twitter.png" style="height:40px"/>
 <img src="https://symbols.getvecta.com/stencil_25/40_jest.5fde12ec22.png" style="height:40px"/>
+<img src="https://seeklogo.com/images/P/puppeteer-logo-254C5F1692-seeklogo.com.png" style="height:40px"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimardeepSingh1450)](https://github.com/anuraghazra/github-readme-stats)
 
