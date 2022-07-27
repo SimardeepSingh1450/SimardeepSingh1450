@@ -12,8 +12,7 @@
 - 😄 Pronouns: He/Him <br/>
 - ⚡ Fun fact: Glass balls can bounce higher than Rubber Balls. <br/>
  </div>
-<br/><br/>
-
+<br/>
 
 <div>
 <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" style="height:40px"/>
@@ -40,6 +39,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" style="height:40px"/>
  </div>
  </div>
+ <br/>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimardeepSingh1450)](https://github.com/anuraghazra/github-readme-stats)
 
