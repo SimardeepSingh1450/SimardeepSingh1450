@@ -11,12 +11,16 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SimardeepSingh1450) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/simardeep_singh22/) 
 
 <div style="display:flex">
+ <div>
 - 🔭 I’m currently working on Self web dev projects... <br/>
 - 👯 I’m looking to collaborate on MERN Projects.<br/>
 - 📫 How to reach me: smudhar_be21@thapar.edu <br/>
 - 😄 Pronouns: He/Him <br/>
 - ⚡ Fun fact: Glass balls can bounce higher than Rubber Balls. <br/>
+ </div>
+ 
 
+<div>
 <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" style="height:40px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" style="height:40px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" style="height:40px"/>
@@ -39,7 +43,7 @@
 <img src="https://symbols.getvecta.com/stencil_25/40_jest.5fde12ec22.png" style="height:40px"/><br/>
 <img src="https://seeklogo.com/images/P/puppeteer-logo-254C5F1692-seeklogo.com.png" style="height:40px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" style="height:40px"/>
-
+ </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimardeepSingh1450)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true)  
