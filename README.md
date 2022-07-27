@@ -11,11 +11,11 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SimardeepSingh1450) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/simardeep_singh22/) 
 
 <div style="display:flex">
-- 🔭 I’m currently working on Self web dev projects... 
-- 👯 I’m looking to collaborate on MERN Projects.
-- 📫 How to reach me: smudhar_be21@thapar.edu 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Glass balls can bounce higher than Rubber Balls. 
+- 🔭 I’m currently working on Self web dev projects... <br/>
+- 👯 I’m looking to collaborate on MERN Projects.<br/>
+- 📫 How to reach me: smudhar_be21@thapar.edu <br/>
+- 😄 Pronouns: He/Him <br/>
+- ⚡ Fun fact: Glass balls can bounce higher than Rubber Balls. <br/>
 
 <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" style="height:40px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" style="height:40px"/>
