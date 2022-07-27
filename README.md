@@ -10,7 +10,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SimardeepSingh1450) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/simardeep_singh22/) 
 
-<div style="display:flex">
+<div style="display:flex,flex-direction: row">
  <div>
 - 🔭 I’m currently working on Self web dev projects... <br/>
 - 👯 I’m looking to collaborate on MERN Projects.<br/>
