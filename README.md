@@ -44,6 +44,8 @@
 <img src="https://seeklogo.com/images/P/puppeteer-logo-254C5F1692-seeklogo.com.png" style="height:40px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" style="height:40px"/>
  </div>
+ </div>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimardeepSingh1450)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true)  
