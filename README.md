@@ -4,12 +4,6 @@
 3>I am open to work for Front End Projects and Back End Projects if you need Help.<br/>
 4>How to reach me? My email => smudhar_be21@thapar.edu.
 
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SimardeepSingh1450) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/simardeep_singh22/) 
-
 <div style="display:flex,flex-direction: row">
  <div>
 - 🔭 I’m currently working on Self web dev projects... <br/>
@@ -18,7 +12,8 @@
 - 😄 Pronouns: He/Him <br/>
 - ⚡ Fun fact: Glass balls can bounce higher than Rubber Balls. <br/>
  </div>
- 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SimardeepSingh1450) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/simardeep_singh22/) 
 
 <div>
 <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" style="height:40px"/>
