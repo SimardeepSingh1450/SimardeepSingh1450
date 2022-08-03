@@ -39,7 +39,7 @@
 <img src="https://symbols.getvecta.com/stencil_25/40_jest.5fde12ec22.png" style="height:40px"/>
 <img src="https://seeklogo.com/images/P/puppeteer-logo-254C5F1692-seeklogo.com.png" style="height:40px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" style="height:40px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" style="height:40px"/>
+
  </div>
  </div>
  <br/>
