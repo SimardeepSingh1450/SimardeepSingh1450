@@ -3,7 +3,7 @@
 2>I am a Web Developer.<br/>
 3>I am open to work for Front End Projects and Back End Projects if you need Help.<br/>
 4>How to reach me? My email => smudhar_be21@thapar.edu.
-
+<hr/>
 <div style="display:flex,flex-direction: row">
  <div>
 - 🔭 I’m currently working on Self web dev projects... <br/>
@@ -13,6 +13,7 @@
 - ⚡ Fun fact: Glass balls can bounce higher than Rubber Balls. <br/>
  </div>
 <br/>
+<hr/>
 
 <div>
 <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" style="height:40px"/>
@@ -42,8 +43,11 @@
  </div>
  <br/>
  
+ <hr/>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimardeepSingh1450)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true)  
+<hr/>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true)  
 
