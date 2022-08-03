@@ -1,4 +1,5 @@
 ### Hi there 👋, My name is Simardeep Singh Mudhar
+<hr/>
 1>I am currently studying as CS student at Thapar University , Patiala.<br/>
 2>I am a Web Developer.<br/>
 3>I am open to work for Front End Projects and Back End Projects if you need Help.<br/>
@@ -13,7 +14,7 @@
 - ⚡ Fun fact: Glass balls can bounce higher than Rubber Balls. <br/>
  </div>
 <br/>
-<hr/>
+
 
 <div>
 <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" style="height:40px"/>
@@ -42,12 +43,10 @@
  </div>
  </div>
  <br/>
- 
- <hr/>
+
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimardeepSingh1450)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true)  
 
