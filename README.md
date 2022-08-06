@@ -1,10 +1,10 @@
 ### Hi there 👋, My name is Simardeep Singh Mudhar
-<hr/>
+<hr color="black"/>
 1>I am currently studying as CS student at Thapar University , Patiala.<br/>
 2>I am a Web Developer.<br/>
 3>I am open to work for Front End Projects and Back End Projects if you need Help.<br/>
 4>How to reach me? My email => smudhar_be21@thapar.edu.
-<hr style="color:black"/>
+<hr color="black"/>
 <div style="display:flex,flex-direction: row">
  <div>
 - 🔭 I’m currently working on Self web dev projects... <br/>
