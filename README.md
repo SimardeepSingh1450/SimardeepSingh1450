@@ -40,6 +40,7 @@
 <img src="https://seeklogo.com/images/P/puppeteer-logo-254C5F1692-seeklogo.com.png" style="height:30px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" style="height:30px"/>
 <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/04/cypress.png?fit=364%2C364&ssl=1" style="height:30px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" style="height:30px"/>
 
  </div>
  </div>
