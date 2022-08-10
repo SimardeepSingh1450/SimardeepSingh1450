@@ -23,7 +23,7 @@
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" style="height:30px"/>
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" style="height:30px"/>
 <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" style="height:30px"/>
-<img src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png" style="height:30px"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" style="height:30px"/>
 <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" style="height:30px"/>
 <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" style="height:30px"/>
 <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" style="height:30px"/>
