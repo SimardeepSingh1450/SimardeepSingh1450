@@ -27,6 +27,8 @@
 <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" style="height:30px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" style="height:30px"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="height:30px"/>
+ <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" style="height:30px"/>
+ 
  
  </div>
  </div>
