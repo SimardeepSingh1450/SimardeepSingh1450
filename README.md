@@ -24,7 +24,7 @@
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" style="height:30px"/>
 <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" style="height:30px"/>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" style="height:30px"/>
-
+<img src="https://i.pinimg.com/736x/8f/23/98/8f2398dcd19c6a1776f6b55c83073c67.jpg" style="height:30px"/>
 
  </div>
  </div>
