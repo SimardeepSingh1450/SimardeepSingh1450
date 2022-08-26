@@ -43,6 +43,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" style="height:30px"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" style="height:30px"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" style="height:30px"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" style="height:30px"/> 
  
  </div>
  </div>
