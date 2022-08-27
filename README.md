@@ -51,6 +51,7 @@
 
  <p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=SimardeepSingh1450&show_icons=true&locale=en&layout=compact" alt="SimardeepSingh1450" /></p>
 
+<br/>
 
-<p>![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true)  </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true)  
 
