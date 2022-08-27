@@ -54,4 +54,6 @@
 
 <p>&nbsp;<img align="centre" width="340" src="https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true&locale=en" alt="SimardeepSingh1450" /></p>
  
+<p><img align="centre"  width="340" src="https://github-readme-streak-stats.herokuapp.com/?user=SimardeepSingh1450&" alt="SimardeepSingh1450" /></p>
+ 
  </div>
