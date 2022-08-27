@@ -49,7 +49,7 @@
  </div>
  <br/>
 
- <p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhsharma023&show_icons=true&locale=en&layout=compact" alt="shubhsharma023" /></p>
+ <p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=SimardeepSingh1450&show_icons=true&locale=en&layout=compact" alt="SimardeepSingh1450" /></p>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true)  
