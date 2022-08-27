@@ -50,10 +50,10 @@
  <br/>
 
 <div style="display:flex">
- <p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=SimardeepSingh1450&show_icons=true&locale=en&layout=compact" alt="SimardeepSingh1450" /></p>
+ <p><img align="left" width="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=SimardeepSingh1450&show_icons=true&locale=en&layout=compact" alt="SimardeepSingh1450" /></p>
 
-<p>&nbsp;<img align="centre" width="300" src="https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true&locale=en" alt="SimardeepSingh1450" /></p>
+<p>&nbsp;<img align="centre" width="200" src="https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true&locale=en" alt="SimardeepSingh1450" /></p>
  
-<p><img align="centre"  width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=SimardeepSingh1450&" alt="SimardeepSingh1450" /></p>
+<p><img align="centre"  width="200" src="https://github-readme-streak-stats.herokuapp.com/?user=SimardeepSingh1450&" alt="SimardeepSingh1450" /></p>
  
  </div>
