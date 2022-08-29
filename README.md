@@ -44,6 +44,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" style="height:30px"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" style="height:30px"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" style="height:30px"/> 
+<img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" style="height:30px"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="height:30px"/> 
  
  </div>
  </div>
