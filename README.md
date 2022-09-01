@@ -26,7 +26,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" style="height:30px"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="height:30px"/>
  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="height:30px"/>
-
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" style="height:30px"/>
  
  </div>
  </div>
