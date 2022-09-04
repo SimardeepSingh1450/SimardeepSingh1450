@@ -33,7 +33,9 @@
  <br/>
 
 <div style="display:flex">
+<div style="background-image:linear-gradient(to top right ,#f5883b,#384ef5)">
  <p><img align="left" width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=SimardeepSingh1450&show_icons=true&locale=en&layout=compact" alt="SimardeepSingh1450" /></p>
+</div>
 
 <p>&nbsp;<img align="centre" width="320" src="https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true&locale=en" alt="SimardeepSingh1450" /></p>
 
