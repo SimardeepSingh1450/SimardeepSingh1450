@@ -34,10 +34,13 @@
 
 <div style="display:flex">
 
+![Profile views](https://gpvc.arturio.dev/SimardeepSingh1450)
+
  <p><img align="left" width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=SimardeepSingh1450&show_icons=true&locale=en&layout=compact" alt="SimardeepSingh1450" /></p>
 
 
 <p>&nbsp;<img align="centre" width="320" src="https://github-readme-stats.vercel.app/api?username=SimardeepSingh1450&show_icons=true&locale=en" alt="SimardeepSingh1450" /></p>
+
 
  
  </div>
