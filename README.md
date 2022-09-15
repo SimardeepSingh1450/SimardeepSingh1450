@@ -13,8 +13,6 @@
  </div>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SimardeepSingh1450&theme=onedark)](https://github.com/SimardeepSingh1450/github-profile-trophy)
-
 
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" style="height:30px"/>
