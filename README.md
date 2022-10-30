@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simardeep Singh</h1>
 <h3 align="center">A noob common MERN developer from India</h3>
-<img align="right" width="400" src="http://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif"/>
+<img align="center" width="400" src="http://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif"/>
 
 - 🔭 I’m currently working on **Self Web Dev Projects**
 
