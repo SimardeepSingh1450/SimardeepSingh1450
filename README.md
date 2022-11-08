@@ -26,7 +26,7 @@
 <div style="display:flex;flex-direction:row;width:2000px">
 <img style="width:210px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simardeepsingh1450&show_icons=true&locale=en&layout=compact" alt="simardeepsingh1450" />
 
-&nbsp;<img style="width:290px" align="center" src="https://github-readme-stats.vercel.app/api?username=simardeepsingh1450&show_icons=true&locale=en" alt="simardeepsingh1450" />
+&nbsp;<img style="width:280px" align="center" src="https://github-readme-stats.vercel.app/api?username=simardeepsingh1450&show_icons=true&locale=en" alt="simardeepsingh1450" />
 
-<img style="width:290px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simardeepsingh1450&" alt="simardeepsingh1450" />
+<img style="width:280px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simardeepsingh1450&" alt="simardeepsingh1450" />
 </div>
