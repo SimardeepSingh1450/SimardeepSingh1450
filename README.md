@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently **deep diving in Web Dev**
 
+- 🌱 I worked as a Software Developer Intern at [PredictRam Defi](https://predictram.com/)
+
 - 👯 I’m looking to collaborate on **Web Dev Projects**
 
 - 🤝 I’m looking for help with **DSA (STRESS X 2)**
