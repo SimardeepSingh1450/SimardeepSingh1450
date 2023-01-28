@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="200px" src="https://giffiles.alphacoders.com/360/36013.gif"/>
+<!--<img align="center" width="100%" height="200px" src="https://giffiles.alphacoders.com/360/36013.gif"/>-->
 <h1 align="center">Hi 👋, I'm Simardeep Singh</h1>
 <h3 align="center">A MERN developer from India</h3>
 
