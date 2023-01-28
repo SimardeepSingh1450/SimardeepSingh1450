@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **anything related to web dev**
 
-- 📫 How to reach me **smudhar_be21@thapar.edu**
+- 📫 How to reach me **simar9389@gmail.com**
 
 - ⚡ Fun fact **Glass balls can bounce higher than Rubber Balls .**
 
