@@ -20,8 +20,13 @@
 
 - 🤖 **POSTMAN STUDENT API EXPERT**
 
-<img src="https://user-images.githubusercontent.com/9841162/157907786-9033dc8e-7e26-45a0-a230-532c1547d861.png" height="100px"/>
+<div style="display:flex">
+<a href="https://dev.to/simardeepsingh1450">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" height="100px"/>
+  </a>
 
+<img src="https://user-images.githubusercontent.com/9841162/157907786-9033dc8e-7e26-45a0-a230-532c1547d861.png" height="100px"/>
+</div>
 
 <p align="left">
 </p>
