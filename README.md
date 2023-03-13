@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **simar9389@gmail.com**
 
-- ⚡ Fun fact **Glass balls can bounce higher than Rubber Balls .**
-
 <div style="display:flex">
 <a href="https://dev.to/simardeepsingh1450">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" height="100px"/>
