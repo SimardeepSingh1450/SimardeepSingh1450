@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Web Dev Projects**
 
-- 🤝 I’m looking for help with **DSA (STRESS X 2)**
+- 🤝 I’m looking for help with **Kubernetes**
 
 - 💬 Ask me about **anything related to web dev**
 
