@@ -1,4 +1,5 @@
 <!--<img align="center" width="100%" height="200px" src="https://giffiles.alphacoders.com/360/36013.gif"/>-->
+
 <h1 align="center">Hi 👋, I'm Simardeep Singh</h1>
 <h3 align="center">An enthusiastic software developer from India</h3>
 
@@ -34,9 +35,12 @@
 </p>
 
 <div style="display:flex;flex-direction:row;width:2000px">
-<img style="width:235px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simardeepsingh1450&show_icons=true&locale=en&layout=compact" alt="simardeepsingh1450" />
+<img style="width:250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simardeepsingh1450&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+  
+<img style="width:340px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simardeepsingh1450&theme=vue-dark&hide_border=true" />
 
-<img style="width:280px" align="center" src="https://github-readme-stats.vercel.app/api?username=simardeepsingh1450&show_icons=true&locale=en" alt="simardeepsingh1450" />
-
-<img style="width:280px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simardeepsingh1450&" alt="simardeepsingh1450" />
+<img style="width:320px" align="center" src="https://github-readme-stats.vercel.app/api?username=simardeepsingh1450&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="simardeepsingh1450" />
 </div>
+  
+
+
