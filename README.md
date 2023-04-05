@@ -35,11 +35,11 @@
 </p>
 
 <div style="display:flex;flex-direction:row;width:2000px">
-<img style="width:250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simardeepsingh1450&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+<img style="width:230px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simardeepsingh1450&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
   
-<img style="width:340px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simardeepsingh1450&theme=vue-dark&hide_border=true" />
+<img style="width:320px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simardeepsingh1450&theme=vue-dark&hide_border=true" />
 
-<img style="width:320px" align="center" src="https://github-readme-stats.vercel.app/api?username=simardeepsingh1450&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="simardeepsingh1450" />
+<img style="width:300px" align="center" src="https://github-readme-stats.vercel.app/api?username=simardeepsingh1450&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="simardeepsingh1450" />
 </div>
   
 
