@@ -34,12 +34,12 @@
 <a href="https://hub.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="typescript" height="40"/> </a><a href="https://yaml.org/" target="_blank" rel="noreferrer"> <img src="https://static.thenounproject.com/png/2598367-200.png" alt="typescript" height="40"/> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="typescript" height="40"/> </a>  
 </p>
 
-<div style="display:flex;flex-direction:row;width:2000px">
-<img style="width:230px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simardeepsingh1450&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+<div style="display:flex;flex-direction:row;">
+<img style="width:220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simardeepsingh1450&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
   
-<img style="width:320px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simardeepsingh1450&theme=vue-dark&hide_border=true" />
+<img style="width:300px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simardeepsingh1450&theme=vue-dark&hide_border=true" />
 
-<img style="width:300px" align="center" src="https://github-readme-stats.vercel.app/api?username=simardeepsingh1450&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="simardeepsingh1450" />
+<img style="width:280px" align="center" src="https://github-readme-stats.vercel.app/api?username=simardeepsingh1450&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="simardeepsingh1450" />
 </div>
   
 
