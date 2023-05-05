@@ -3,15 +3,11 @@
 <h1 align="center">Hi 👋, I'm Simardeep Singh</h1>
 <h3 align="center">Blogger, Speaker, open-source contributor and a software developer from India</h3>
 
-- 🔭 I’m currently working on **Self Web Dev Projects**
-
-- 🌱 I’m currently **deep diving in Dev Ops**
+- I work on projects related to BASH(automations), web-dev in various tech-stacks and DevOps.
 
 - 🌱 I worked as a Software Developer Intern at [PredictRam Defi](https://predictram.com/)
 
-- 👯 I’m looking to collaborate on **Web Dev Projects**
-
-- 🤝 I’m looking for help with **Kubernetes**
+- 🌱 I’m currently **deep diving in Dev Ops**
 
 - 💬 Ask me about **anything related to web dev**
 
