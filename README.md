@@ -44,6 +44,7 @@
   <a href="https://yaml.org/" target="_blank" rel="noreferrer"> <img src="https://static.thenounproject.com/png/2598367-200.png" alt="typescript" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="typescript" height="30"/> </a>
   <a href="https://www.ruby-lang.org/en/about/logo/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/980/847/png-clipart-ruby-on-rails-logo-programming-language-rubygems-ruby-angle-design-thumbnail.png" alt="typescript" height="30"/> </a>  
+    <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" alt="typescript" height="30"/> </a>  
 </p>
 
 <div style="display:flex;flex-direction:row;">
