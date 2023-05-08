@@ -46,6 +46,7 @@
   <a href="https://www.ruby-lang.org/en/about/logo/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/980/847/png-clipart-ruby-on-rails-logo-programming-language-rubygems-ruby-angle-design-thumbnail.png" alt="typescript" height="30"/> </a>  
     <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" alt="typescript" height="30"/> </a>
 <a href="https://sass-lang.com/styleguide/brand" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlegwCjoXJ_CwrP7V9M6jj42heoiv2T0pcRVxsj3r&s" alt="typescript" height="30"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Kpu-9CqrkI9zskwgxcUo2Ba4aEkKyuvJsTzzaRMi&s" alt="typescript" height="30"/> </a>
 </p>
 
 <div style="display:flex;flex-direction:row;">
