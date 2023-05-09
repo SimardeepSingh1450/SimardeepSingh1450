@@ -47,7 +47,6 @@
     <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" alt="typescript" height="30"/> </a>
 <a href="https://sass-lang.com/styleguide/brand" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlegwCjoXJ_CwrP7V9M6jj42heoiv2T0pcRVxsj3r&s" alt="typescript" height="30"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Kpu-9CqrkI9zskwgxcUo2Ba4aEkKyuvJsTzzaRMi&s" alt="typescript" height="30"/> </a>
-  <a href="https://www.gitpod.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/37021919?s=200&v=4" alt="typescript" height="30"/> </a>
 </p>
 
 <div style="display:flex;flex-direction:row;">
