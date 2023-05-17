@@ -15,7 +15,7 @@
 
 <div style="display:flex">
   <a href="https://www.gitpoap.io/gp/879">
-<img src="https://res.cloudinary.com/dv7jje0bw/image/upload/v1683730129/ethereum-open-source/ethereum-org-contributor_o5z6p4.png" height="150px"/>
+<img src="https://res.cloudinary.com/dv7jje0bw/image/upload/v1683730129/ethereum-open-source/ethereum-org-contributor_o5z6p4.png" height="120px"/>
   </a>
   <a href="https://dev.to/simardeepsingh1450">
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" height="120px"/>
