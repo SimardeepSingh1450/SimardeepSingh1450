@@ -20,7 +20,10 @@
   <a href="https://dev.to/simardeepsingh1450">
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" height="100px"/>
   </a>
-  <a href="https://dev.to/simardeepsingh1450">
+<a href="https://medium.com/@smudhar_be21">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*jfdwtvU6V6g99q3G7gq7dQ.png" height="100px"/>
+  </a>
+<a href="https://dev.to/simardeepsingh1450">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" height="100px"/>
   </a>
 <a href="https://api.badgr.io/public/assertions/GlqUep_5TXGP6QvDcCUJHA?identity__email=smudhar_be21%40thapar.edu">
