@@ -1,7 +1,7 @@
 <!--<img align="center" width="100%" height="200px" src="https://giffiles.alphacoders.com/360/36013.gif"/>-->
 
 <h1 align="center">Hi 👋, I'm Simardeep Singh</h1>
-<h3 align="center">Blogger, Speaker, open-source contributor and a cp-coder from India</h3>
+<h3 align="center">Technical-Blogger, open-source contributor and cp-coder from India</h3>
 
 - I work on projects related to BASH(automations), web-dev in various tech-stacks and DevOps.
 
