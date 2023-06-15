@@ -5,8 +5,6 @@
 
 - I work on projects related to BASH(automations), web-dev in various tech-stacks and DevOps.
 
-- 🌱 I worked as a Software Developer Intern at [PredictRam Defi](https://predictram.com/)
-
 - 🌱 I’m currently **deep diving in Dev Ops**
 
 - 💬 Ask me about **anything related to web dev**
@@ -19,9 +17,6 @@
   </a>
   <a href="https://dev.to/simardeepsingh1450">
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" height="100px"/>
-  </a>
-<a href="https://medium.com/@smudhar_be21">
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*jfdwtvU6V6g99q3G7gq7dQ.png" height="100px"/>
   </a>
 <a href="https://dev.to/simardeepsingh1450">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" height="100px"/>
