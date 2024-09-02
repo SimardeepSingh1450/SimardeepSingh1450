@@ -1,12 +1,6 @@
-<!--<img align="center" width="100%" height="200px" src="https://giffiles.alphacoders.com/360/36013.gif"/>-->
-
-<img src="https://github.com/SimardeepSingh1450/SimardeepSingh1450/assets/92221517/76ec158e-262e-4fee-b6d3-6c170efac5d1" height="390"/>
-
-<h3 align="center">Technical-Blogger, Open-Source Contributor and CP-coder from India</h3>
+<h3 align="center">Coder from India</h3>
 
 - I work on projects related to BASH(automations), web-dev in various tech-stacks and DevOps.
-
-- 🌱 I’m currently **deep diving in Dev Ops**
 
 - 💬 Ask me about **anything related to web dev**
 
