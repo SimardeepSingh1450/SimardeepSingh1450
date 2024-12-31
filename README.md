@@ -1,9 +1,5 @@
 <h3 align="center">Engineer from India</h3>
 
-- I work on projects related to BASH(automations), web-dev in various tech-stacks and DevOps.
-
-- 💬 Ask me about **anything related to web dev**
-
 - 📫 How to reach me **simar9389@gmail.com**
 
 <div style="display:flex">
