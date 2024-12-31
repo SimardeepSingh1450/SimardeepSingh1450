@@ -1,4 +1,4 @@
-<h3 align="center">Coder from India</h3>
+<h3 align="center">Engineer from India</h3>
 
 - I work on projects related to BASH(automations), web-dev in various tech-stacks and DevOps.
 
